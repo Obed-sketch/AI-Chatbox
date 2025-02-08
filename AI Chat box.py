@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 AI Chatbot Project - From Concept to Deployment
 """
